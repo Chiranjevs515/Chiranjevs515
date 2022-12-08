@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiranjevs515
 - 👀 I’m interested in web development and competetive coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning c++,c,python,html,css,javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta id-chiranjeev_4747.
 - 🚀 My Linkedin profile link-https://www.linkedin.com/in/chiranjeev-patel-ab8574252/
