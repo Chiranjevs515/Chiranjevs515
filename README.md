@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta id-chiranjeev_4747.
+- 🚀 My Linkedin prifile link-https://www.linkedin.com/in/chiranjeev-patel-ab8574252/
 
 <!---
 Chiranjevs515/Chiranjevs515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
