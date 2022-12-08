@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiranjevs515
-- 👀 I’m interested in app development and competetive coding.
-- 🌱 I’m currently learning fluttter for app development.
+- 👀 I’m interested in web development and competetive coding.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta id-chiranjeev_4747.
 
