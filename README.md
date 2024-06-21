@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chiranjevs515
+- 👋 Hi, I’m @Chiranjeevs515
 - 👀 I’m a web developer and competetive coder.
 - 🌱 I’m proficient in c++,c,python,html,css,javascript,react js.
 - 💞️ I’m looking to collaborate on ...
